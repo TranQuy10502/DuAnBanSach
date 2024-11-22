@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStackProject",
+    "\\BookStackProject\\BE",
+    "\\BookStackProject\\BE\\BookStack",
+    "\\BookStackProject\\BE\\BookStack\\Controllers",
+    "\\BookStackProject\\BE\\BookStack\\Migrations"
+  ],
+  "SelectedNode": "\\BookStackProject\\BE\\BookStack\\Controllers\\RatingController.cs",
+  "PreviewInSolutionExplorer": false
+}
